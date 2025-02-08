@@ -297,4 +297,9 @@ button {
     width: 95vh;
     padding: 15px;
   }
+   .but{
+    display: flex;
+    flex-direction: column;
+
+  }
 }
