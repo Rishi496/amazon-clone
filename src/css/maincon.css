@@ -1,0 +1,300 @@
+.box1 {
+  width: 68%;
+  height: 100%;
+}
+.box2 {
+  border: 2px solid rgb(210, 205, 205);
+  width: 29%;
+  padding: 15px;
+  height: 100%;
+}
+.first > h1 {
+  font-weight: 400;
+  font-size: 25px;
+  width: 80%;
+  padding: 5px;
+}
+.rat > img {
+  width: 70px;
+  padding: 10px;
+}
+.rat {
+  display: flex;
+  align-items: center;
+  width: 100px;
+  height: 20px;
+  margin-right: 10px;
+}
+.second {
+  display: flex;
+}
+.third {
+  margin-bottom: 10px;
+}
+.second > p > a {
+  font-weight: 700;
+  color: #134390;
+}
+.con2 > h6 {
+  background-color: #d33227;
+  width: 130px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+  color: white;
+  border-radius: 5px;
+  margin: 10px 10px 10px 0px;
+}
+.para1 {
+  font-size: 25px;
+}
+.para1 > span {
+  color: red;
+}
+.para2 {
+  font-size: small;
+  margin: 10px 10px 10px 0px;
+}
+.para3 {
+  display: flex;
+  gap: 10px;
+  margin: 0px 0px 10px 0px;
+}
+.para3 > p {
+  color: #134390;
+}
+.para5 > img {
+  width: 30px;
+}
+.para5 {
+  margin: 10px 10px 10px 0px;
+  display: flex;
+  gap: 20px;
+}
+.bankoffer {
+  margin: 5px;
+  font-size: 14.5px;
+  font-weight: 400;
+}
+.bankoffer > h4 {
+  margin-bottom: 5px;
+}
+.four {
+  width: 450px;
+}
+.setting > img {
+  width: 30px;
+}
+.setting {
+  margin: 5px;
+  font-size: 13px;
+  font-weight: 400;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80px;
+}
+.con4 {
+  width: 450px;
+  margin-top: 30px;
+}
+.help > img {
+  width: 30px;
+  border: 2px solid;
+}
+.help {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.help > p {
+  color: #134390;
+  padding: 5px;
+}
+.con5 {
+  margin-top: 20px;
+}
+.imagemain {
+  display: flex;
+}
+.img1 > img {
+  width: 80px;
+}
+.img1 {
+  border: 1px solid gray;
+  height: 60%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: small;
+  width: 90px;
+  margin: 5px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.img1 > span {
+  color: rgb(38, 112, 181);
+}
+.img1 > h5 {
+  font-weight: 900;
+}
+.img1:hover {
+  border: 2px solid rgb(58, 179, 195);
+  box-shadow: 5px 5px 10px;
+}
+.size {
+  display: flex;
+  align-items: center;
+  font-size: medium;
+}
+.ram {
+  display: flex;
+  gap: 10px;
+  margin: 10px 10px 10px 0px;
+}
+.ram1 {
+  border: 1px solid gray;
+  width: 150px;
+  text-align: center;
+  padding: 5px 15px 5px 15px;
+  border-radius: 5px;
+}
+.ram1:hover {
+  border: 3px solid rgb(107, 148, 230);
+  box-shadow: 5px 5px 10px;
+  background-color: rgb(192, 230, 236);
+}
+.title {
+  display: flex;
+  margin: 10px 10px 10px 0px;
+}
+table > tr > th {
+  text-align: start;
+  padding: 0px 15px 5px 0px;
+  width: 150px;
+}
+.para > ul {
+  margin-left: 25px;
+  width: 80%;
+}
+.con5 > a {
+  margin-left: 25px;
+  color: rgb(82, 144, 211);
+}
+.final > img {
+  width: 20px;
+  padding: 5px;
+}
+.final {
+  display: flex;
+  color: rgb(82, 144, 211);
+  margin-top: 10px;
+}
+
+/* <________________________________________________________________________________________> */
+.box2 > h1 {
+  font-weight: 400;
+}
+.box2 {
+  width: 35%;
+}
+.box2 > img {
+  width: 80px;
+  padding-top: 5px;
+}
+.del {
+  width: 60%;
+}
+.del > p > p > span {
+  font-weight: 400;
+}
+.loc > img {
+  width: 15px;
+  padding-right: 5px;
+  padding-bottom: 15px;
+}
+.loc > p {
+  color: rgb(107, 148, 230);
+  font-size: 14px;
+}
+.loc {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.stock {
+  margin-top: 25px;
+}
+.stock > h3 {
+  color: green;
+  font-weight: 400;
+}
+table > tr > th,
+p {
+  font-weight: 400;
+  font-size: 13px;
+}
+table > tr {
+  display: flex;
+}
+table > tr > p {
+  text-align: start;
+  width: 100px;
+}
+.align {
+  width: 150px;
+  color: rgb(107, 148, 230);
+}
+label {
+  color: rgb(107, 148, 230);
+  padding-left: 10px;
+}
+input {
+  padding-right: 5px;
+}
+.add > p {
+  color: #d33227;
+}
+button {
+  padding: 8px 40px 8px 40px;
+  width: 200px;
+  border-radius: 5px;
+}
+.but1 {
+  background-color: yellow;
+  border-radius: 50px;
+  border: none;
+  margin-bottom: 10px;
+}
+.but2 {
+  background-color: orange;
+  border-radius: 50px;
+  border: none;
+  margin-bottom: 10px;
+}
+.but3 {
+  background-color: white;
+  border: 1px solid gray;
+  margin-top: 10px;
+}
+@media all and (max-width: 800px) {
+  .box2 {
+    width: 95vh;
+  }
+  .loc {
+    display: flex;
+    justify-content: start;
+  }
+  .main {
+    width: 100vh;
+  }
+  .box1 {
+    width: 95vh;
+    padding: 15px;
+  }
+}

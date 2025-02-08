@@ -1,0 +1,41 @@
+.head2{
+    display: flex;
+    background-color: rgb(15, 27, 38);
+    color: white;
+}
+.bar >img{
+    width: 20px;
+    height: 15px;
+    padding: 8px;
+   
+}
+.bar{
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+    padding: 5px;
+    /* margin: 5px; */
+    cursor: pointer;
+}
+.list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.list >ul{
+    display: flex;
+}
+.list >ul >li{
+    display: flex;
+    padding: 10px;
+    margin-left: 5px;
+    font-weight: 600;
+}
+.list >ul >li:hover{
+    border: 1px solid white;
+}
+.bar:hover{
+    border: 1px solid white;
+}
