@@ -276,7 +276,7 @@ const Maincon = () => {
           <button className="but2">Buy Now</button>
         </div>
         <input type="checkbox" />
-        <label htmlFor="">Add gift option</label>
+        <label htmlFor="">Add gift option</label><br/>
         <button className="but3">Add to Wish List</button>
       </div>
     </div>
